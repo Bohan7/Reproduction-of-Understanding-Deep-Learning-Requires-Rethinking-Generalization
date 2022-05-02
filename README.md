@@ -1,5 +1,9 @@
 # Reproduction of *Understanding Deep Learning Requires Rethinking Generalization*
 
+This is a repository to reproduce the experimental results in the paper, 
+> Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals. *Understanding deep learning requires rethinking generalization*. International Conference on Learning Representations (ICLR), 2017. [[arXiv:1611.03530](https://arxiv.org/abs/1611.03530)].
+
+
 ## Datasets 
 
 1. Cifar10: a standard benchmark in image recognition. Cifar10 contains 60,000 images, each of which depicts a natural scene and is of resolution 32*32. 
@@ -16,7 +20,6 @@
 
 ## Instuctions
 You can reproduce Fig.1, Fig.2, Table 1 and Table 4 in the paper, 'Understanding Deep Learning Requires Rethinking Generalization' in ``Reproduce.ipynb``
-
 
 
 
