@@ -3,7 +3,7 @@
 This is a repository to reproduce the experimental results in the paper, 
 > Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals. *Understanding deep learning requires rethinking generalization*. International Conference on Learning Representations (ICLR), 2017. [[arXiv:1611.03530](https://arxiv.org/abs/1611.03530)].
 
-Members: 
+## Members: 
 
 Bohan Wang
 
